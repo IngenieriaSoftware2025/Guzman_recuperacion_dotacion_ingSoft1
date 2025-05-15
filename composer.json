@@ -1,6 +1,6 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "app/baseguzman",
+    "description": "app para iniciar con el modelo mvc para programacion",
     "type": "project",
     "config": {
         "platform-check": false
