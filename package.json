@@ -1,7 +1,7 @@
 {
-  "name": "demo-app",
+  "name": "baseguzman",
   "version": "1.0.0",
-  "description": "Aplicacion MVC demo",
+  "description": "App para iniciar modelo MVC para el curso de programacion",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
